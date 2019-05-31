@@ -33,14 +33,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+Semantic HTML tags are important tools for developers to ensure accessibility, ensuring that the markup of a website actually reflects the importance of different headings and sections. Some semantic HTML tags are nav, section, h1, and p
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+Some HTML tags may occupy the full line, while others can be placed side-by-side. For example, paragraphs, p which are block elements, take the whole line. span is an example of an inline element, which can be side by side with other inline elements. Also, block elements allow users to set height and width properties, whereas inline elements do not let users set these properties.
 
 3. What are the 4 areas of the box model?
+The content edge, padding edge, border edge, and margin edge.
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+When using flexbox, the ‘align-items: center’ property works on the cross axis, which runs vertically.
 
 5. Explain why git is valuable to a team of developers.
+Git is valuable as a tool for collaboration that allows for increased efficiency among teams while allowing individual contributors to try new ideas after forking the original repository; then they can make further modifications after creating new branches without risking the project as a whole. Git allows users to return to earlier versions of a project and to create new versions, which is important as different features are being tested.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
